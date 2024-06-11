@@ -1,2 +1,4 @@
 # AutoBrew
-AutoBrew is a user-friendly solution designed for brewers to effortlessly track the progress of their wine or beer brewing endeavors.
+AutoBrew is a user-friendly solution designed for brewers to effortlessly track the progress of their wine or beer brewing endeavors. It offers real-time readings on crucial parameters such as temperature, pH level, alcohol content, and overall brew progress. Whether you're a novice exploring the brewing hobby or a seasoned expert, AutoBrew simplifies the brewing process and saves valuable time.
+Features: Monitor temperature, pH level, alcohol content, and general progress of your brew. Suitable for beginners and experienced brewers alike. Connect multiple AutoBrew devices for comprehensive brew management—seamless integration with IoT for data collection and AWS DynamoDB for storage.
+This is a senior year group project, developed and released under the esteemed Kutztown University of Pennsylvania, Department of Computer Science. AutoBrew is a proud product of our university's commitment to innovation and practical application of knowledge.
